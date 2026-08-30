@@ -1,4 +1,5 @@
-## Hi, I'm Samrat
+## Hi there 👋, 
+I'm Samrat
 
 I work in information security, mostly on the governance side. Eleven years in,
 split across GRC, IT audit, ISMS, privacy, third-party risk and cloud security
@@ -34,7 +35,7 @@ Security Top 10 and NIST SP 800-204. CISM is on the list for 2027.
 ### About this account
 
 Most of my work isn't code, so this is mostly notes, scripts and reference material
-I've found useful. If something here saves you an hour, that's the point.## Hi there 👋
+I've found useful. If something here saves you an hour, that's the point.
 
 <!--
 **samratsur21/samratsur21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
