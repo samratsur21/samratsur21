@@ -1,4 +1,5 @@
-## Hi there 👋, 
+## Hi there 👋
+
 I'm Samrat
 
 I work in information security, mostly on the governance side. Eleven years in,
